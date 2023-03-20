@@ -1,2 +1,3 @@
-# ebac-ciencia-de-dados
-Projetos de Ciência de Dados
+# EBAC
+## Ciência de Dados
+Projetos de Ciência de Dados desenvolvidos no curso da EBAC
